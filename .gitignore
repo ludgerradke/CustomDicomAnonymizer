@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!anonymize_dicom_folder.py
+!anonymize_dicom_folders.py
+!create_config.py
+!utils.py
+!LICENSE
+!requirements.txt
+!README.md
+!Call_CustomDicomAnonymizer_from_Function.py
